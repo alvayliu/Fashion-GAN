@@ -3,4 +3,4 @@ fashion-mnist_train.csv
 Experiments with DCGAN.ipynb
 Experiments with GAN.ipynb
 old_models/
-
+.DS_Store
